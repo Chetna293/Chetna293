@@ -1,6 +1,6 @@
 ### Hi Developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/chetna-chaudhari-462a311ab/)]
-(https://www.linkedin.com/in/chetna-chaudhari-462a311ab/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chetna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/chetna-chaudhari-462a311ab/)]
+
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Chetna-yellow)](https://stackoverflow.com/users/18258359/chetna-chaudhari)
 
